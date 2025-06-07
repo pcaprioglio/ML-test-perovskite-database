@@ -2,7 +2,7 @@
 
 This project is orginally from 2022.
 
-This is just a quick first attempt of appling a ML routine on the perovskite solar cells public database: https://www.perovskitedatabase.com/
+This is just a quick first attempt of appling a ML routine on the perovskite solar cells public database (https://www.perovskitedatabase.com/) while I was working for the University of Oxford. 
 
 The database contains extracted results and experimental info regarding published data on perovskite solar cells. The project itself was not very succefull because of the following reasons: 1) poor data quality, 2) biased data and 3) inconsistencies in the research field. Let me elaborate:
 
