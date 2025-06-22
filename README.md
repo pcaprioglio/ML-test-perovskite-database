@@ -1,6 +1,6 @@
 # ML-test-perovskite-database
 
-This project is orginally from 2022.
+This project is orginally from 2022. Just some messy Jupyter notebooks with some results.
 
 This is just a quick first attempt of appling a ML routine on the perovskite solar cells public database (https://www.perovskitedatabase.com/) while I was working for the University of Oxford. 
 
